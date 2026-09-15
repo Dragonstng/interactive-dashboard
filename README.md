@@ -5,3 +5,7 @@
 - [ ] Add a metric conversion tool.
 - [ ] Integrate a task list with array storage.
 - [ ] Add JavaScript logic for a live clock.
+- [x] "Add a weekly task goal calculator
+
+## Weekly Tasks Goals
+I did as I was told, now fuck off
